@@ -1,4 +1,4 @@
-# Samostatný ůkol č.1
+# Samostatný úkol č.1
 
 Vytvořte vlastní libovolný skript pro příkazový interpret Bash. Soubor s tělem
 skriptu uložte do domovského adresáře. Skript vytvořte jednoduchý (nezáleží na
